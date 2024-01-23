@@ -501,6 +501,11 @@ li {
   width: 33%;
   margin: 20px;
 }
+#cases {
+  margin: 40px;
+  padding: 0;
+  width: 100%;
+}
 .case-card {
   background-color: #ffffff;
   min-height: 400px;
